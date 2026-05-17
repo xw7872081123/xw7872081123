@@ -2,11 +2,6 @@
  
 # Love TYPESCRIPT
  
-## GitHub Snapshot
 
-<div align="center">
-
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gnanam1990&theme=tokyonight" />
-<img height="180em" src="https://streak-stats.demolab.com?user=gnanam1990&theme=tokyonight&hide_border=true" />
- 
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f172a,35:1d4ed8,70:7c3aed,100:ec4899" />
+</div>
